@@ -41,7 +41,6 @@ connection.commit()
 
 
 
-
 ##Select
 query = "SELECT * FROM account"
 c.execute(query)
